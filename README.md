@@ -17,3 +17,5 @@ If you already have old carrot patches then you can recycle all parts except the
 If you want only N=1 then there is also a stand-alone version available.
 
 ![RL triple Buffer Array](https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array/blob/main/images/rl-buffer-array.jpg?raw=true?)
+
+![RL triple Buffer Array](https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array/blob/main/images/CAD-start-middle-end-stand-alone.png?raw=true)
