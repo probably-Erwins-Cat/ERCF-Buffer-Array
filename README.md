@@ -10,3 +10,4 @@ A Buffer Array of length N requires:
 - 1x Buffer Array end
 - recommended for stability: for every 3 buffer elements 3 triple locker
 
+![RL triple Buffer Array](https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array/blob/main/images/rl-buffer-array.jpg?raw=true?)
