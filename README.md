@@ -16,8 +16,8 @@ Building a Buffer Array from skratch of length N>1 requires:
 If you already have old carrot patches then you can recycle all parts except the heat inserts.
 If you want only N=1 then there is also a stand-alone version available.
 
-![RL triple Buffer Array](https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array/blob/main/images/rl-buffer-array.jpg?raw=true?)
+![RL Triple Buffer Array](https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array/blob/main/images/rl-buffer-array.jpg?raw=true?)
 
-![RL triple Buffer Array](https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array/blob/main/images/CAD-start-middle-end-stand-alone.png?raw=true)
+![Overview Main_Body Types](https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array/blob/main/images/CAD-start-middle-end-stand-alone.png?raw=true)
 
 ![V2.4-Integration](https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array/blob/main/images/V2.4-integration.jpg?raw=true)
