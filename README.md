@@ -10,7 +10,7 @@ Building a Buffer Array of length N>1 requires:
   - 1x Buffer_Axis.stl
   - 1x Buffer_Cross.stl
   - 1x Buffer_Wheel.stl
-  - 1x feet_x2.stl
+  - 1x feet_x2.stl or Feet_cut_off.stl
 - 1x "Buffer Array Start"
 - (N-2)x Buffer Array Middle
 - 1x Buffer Array End
