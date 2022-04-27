@@ -27,6 +27,8 @@ If you want to integrate an 6x ERCF with buffer array and spool holder on your b
 
 ![RL Triple Buffer Array](https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array/blob/main/images/rl-buffer-array.jpg?raw=true?)
 
+![RL Triple Buffer Array](https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array/blob/main/images/rl_buffer_array_2.jpg?raw=true?)
+
 ![Overview Main_Body Types](https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array/blob/main/images/CAD-start-middle-end-stand-alone.png?raw=true)
 
 ![Overview Main_Body Types](https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array/blob/main/images/CAD-triple-buffer-array.png?raw=true)
