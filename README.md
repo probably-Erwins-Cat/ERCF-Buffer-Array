@@ -2,7 +2,7 @@
 
 The Carrot Patch for the Enraged Rabbit Carrot Feeder has an integrated spool holder included. For people who store their spools in a drybox, this can be an issue. Either you have to store the buffer ring also in the dry box, which takes away space for filament spools, or one has to design a dedicated solution for the buffer ring outside of the dry box.
 
-The Buffer Array solves this issue by dropping the spool holder and allows stacking up buffer rings side by side, called Buffer Array. One buffer ring element takes up 4cm of space (width). The Buffer Array is based on a modified main body so that all other required parts of the carrot patch can be re-used. The Buffer Array is modular an thus can be adapted to the size of your ERCF. For up to N=6, I also provide an integrated solution vor the V2.4, see image below.
+The Buffer Array solves this issue by dropping the spool holder and allows stacking up buffer rings side by side, called Buffer Array. One buffer ring element takes up 40mm of space (normal version) or 33.5mm (slim version). The Buffer Array is based on a modified main body so that all other required parts of the carrot patch can be re-used. The Buffer Array is modular an thus can be adapted to the size of your ERCF. For up to N=6, I also provide an integrated solution vor the V2.4, see image below.
 
 Building a Buffer Array of length N>1 requires:
 - the standard Carrot Patch parts:
